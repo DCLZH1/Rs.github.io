@@ -30,6 +30,7 @@ function setupCopyButton(buttonId, content) {
         });
     });
 }
-setupCopyButton('dashboard-btn1', '996155023');
-settp("dashboard-btn2","https://discord.gg/CQQnenEWsj");
-settp("dashboard-btn3","https://www.roblox.com/communities/35773943/CDRIMOP#!/about");
+setupCopyButton("dashboard-btn1", "996155023");
+setupCopyButton("dashboard-btn2", "https://raw.githubusercontent.com/DCLZH1/Main/refs/heads/main/Script.luau");
+settp("dashboard-btn3","https://discord.gg/CQQnenEWsj");
+settp("dashboard-btn4","https://www.roblox.com/communities/35773943/CDRIMOP#!/about");
